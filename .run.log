@@ -1,5 +1,5 @@
-three
-one
-four
-two
+  File ".last_tmp.py", line 32
+    if pn => c.num:
+          ^
+SyntaxError: invalid syntax
 
