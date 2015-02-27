@@ -1,7 +1,4 @@
-вышел из дома
-set([<__main__.cp instance at 0x5d0b2cd8>])
-set([<__main__.cp instance at 0x5d0b2d28>, <__main__.cp instance at 0x5d0b2cd8>, <__main__.cp instance at 0x5d0b2d50>])
-1 newcp
-1 вышел из дома
-1 newcp
+two 3
+one1 2
+one 1
 
