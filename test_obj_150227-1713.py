@@ -12,7 +12,8 @@ class cp:
 #l.insert(2, 42)
 #print l
 
-a = list()
+a = list() # чекпоинты
+b = list() # дельты
 
 def add(pn=42e42, **kwargs):
     if pn > len(a): pn = len(a)
